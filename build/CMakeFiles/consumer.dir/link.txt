@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/consumer.dir/src/broker/consumer.cpp.o -o consumer  -lrabbitmq 
