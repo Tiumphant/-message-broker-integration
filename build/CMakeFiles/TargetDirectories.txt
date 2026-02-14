@@ -1,0 +1,4 @@
+/home/nisha/message-broker-integration/build/CMakeFiles/producer.dir
+/home/nisha/message-broker-integration/build/CMakeFiles/consumer.dir
+/home/nisha/message-broker-integration/build/CMakeFiles/edit_cache.dir
+/home/nisha/message-broker-integration/build/CMakeFiles/rebuild_cache.dir
